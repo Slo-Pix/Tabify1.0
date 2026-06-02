@@ -1,6 +1,6 @@
 # Tabify
 
-![Tabify](assets/banner.png)
+![Tabify](banner.png)
 
 A guitar arrangement tool — web editor.
 
