@@ -1,10 +1,12 @@
+
+## Visit the [hosted version](https://tabifyeditor.vercel.app).
+
 ![Tabify](port.png)
 
 A guitar arrangement tool — web editor.
 
 Write and edit guitar tablature with techniques, left/right hand finger notation, and printable export. No accounts, no frameworks, no dependencies.
 
-# Visit [Tabify](https://tabifyeditor.vercel.app).
 
 ## Web Editor
 - 16th-note grid editor with 6-string (guitar) and 4-string (ukulele) tablature
